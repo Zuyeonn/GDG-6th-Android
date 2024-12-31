@@ -1,1 +1,1 @@
-# GDG-6th-Android
+# GDG-6th-Android Study
